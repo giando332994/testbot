@@ -159,7 +159,8 @@ const responses = [
     replies: [
       "https://tenor.com/view/have-a-good-night-have-a-great-evening-have-a-good-evening-cute-goodnight-gif-5395725928804711076",
       "https://tenor.com/view/good-night-night-nite-nite-nite-lay-me-down-to-sleep-gif-16995668",
-      "https://tenor.com/view/good-night-bear-teddy-bear-rabbit-bunny-gif-25202269"
+      "https://tenor.com/view/good-night-bear-teddy-bear-rabbit-bunny-gif-25202269",
+      ":Bedge:"
     ]
   },
   {
@@ -202,7 +203,6 @@ const responses = [
   {
     keywords: ['lyrics', 'meaning', 'nas', 'common'],
     replies: [
-      "\:DayshaSteers:",
       "They don't give a shit about real meanings or lyrical an like nas or common"
     ]
   }
