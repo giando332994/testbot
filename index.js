@@ -148,6 +148,15 @@ const responses = [
     ]
   },
   {
+    keywords: ['breakfast', 'sausage'],
+    replies: [
+      "I do t like sweets and meat for breakfast unlesss the sausage accidentally gets in syrup 😂",
+      "Is klonk making us breakfast ?",
+      "https://tenor.com/view/eggs-flip-breakfast-cooking-gif-9569635",
+      "What\'s for breakfast 🍳"
+    ]
+  },
+  {
     keywords: ['show', 'fast'],
     replies: [
       "We'll show fasss"
