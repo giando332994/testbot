@@ -151,7 +151,12 @@ const responses = [
     keywords: ['goodmorning', 'gm', 'good morning'],
     replies: [
       "https://tenor.com/view/family-love-support-gif-17342934416851765394",
-      "https://tenor.com/view/cat-sleep-tired-cute-gif-15231363"
+      "https://tenor.com/view/cat-sleep-tired-cute-gif-15231363",
+      "https://tenor.com/view/morning-goodmorning-sunrise-beach-gif-13059723454432855061",
+      "https://tenor.com/view/theecards-good-morning-gm-goodmorning-have-a-good-day-gif-15173671151548065674",
+      "https://tenor.com/view/good-morning-goodmorning-gm-morning-happy-gif-3123798057584218894",
+      "https://tenor.com/view/goodmorning-wake-the-fuck-up-gif-15550364",
+      "https://tenor.com/view/good-morning-gif-10503059712898098418"
     ]
   },
   {
@@ -160,7 +165,12 @@ const responses = [
       "https://tenor.com/view/have-a-good-night-have-a-great-evening-have-a-good-evening-cute-goodnight-gif-5395725928804711076",
       "https://tenor.com/view/good-night-night-nite-nite-nite-lay-me-down-to-sleep-gif-16995668",
       "https://tenor.com/view/good-night-bear-teddy-bear-rabbit-bunny-gif-25202269",
-      ":Bedge:"
+      "goodnight guys headed off to bed im off saturday thank gawdddddaaa",
+      "https://tenor.com/view/garfield-pillow-bedtime-goodnight-sleep-tight-gif-6320194812773339383",
+      "https://tenor.com/view/bedtime-goodnight-going-to-bed-dog-bear-gif-4372798246612572811",
+      "https://tenor.com/view/good-night-goodnight-nighty-gif-18281734137392456796",
+      "https://tenor.com/view/goodnight-moon-gif-14202440755019416563",
+      "https://tenor.com/view/shadow-the-hedgehog-shadow-sonic-sonic-the-hedgehog-goodnight-gif-25968250"
     ]
   },
   {
@@ -201,7 +211,7 @@ const responses = [
     ]
   },
   {
-    keywords: ['wankji', 'wankge'],
+    keywords: ['wankji', 'wankge', ':Wankge:'],
     replies: [
       "U spell it  a diff way u wankji in Canada or ?",
       "I tried but my Wankge only last 4 hours how yallslast 8 😂 klonk left me hanging …… and clients not here to Wankge everyone to bedge ",
@@ -232,7 +242,9 @@ const defaultResponses = [
   "https://tenor.com/view/south-park-eric-cartman-god-fucking-damnit-god-damn-it-pissed-gif-5412135",
   "🤨 Hmm monka ohhh no n hahahahaha MokATOS 🤣  👍. Utttt ohhhhhhhhh my tummy … pancakes 🥞",
   "🤨 Hmm monka ohhh no n hahahahaha MokATOS 🤣  👍",
-  "I ran out of collffeseeeeee coffee"
+  "I ran out of collffeseeeeee coffee",
+  "ohh now i clicked wrong thing, i see penises",
+  "i was joking nut sure what an astronaugt gets for his fake work"
 ];
 
 // Function to get a response based on the prompt
@@ -283,7 +295,7 @@ client.on('guildCreate', async guild => {
       );
     }
   } catch (error) {
-    console.error('Errore nell\'invio del messaggio di benvenuto:', error);
+    console.error('Error on sending the Welcome message:', error);
   }
 });
 
@@ -302,7 +314,7 @@ client.on('messageCreate', async (message) => {
   if (message.content.startsWith('!daysha')) {
     const prompt = message.content.slice(7).trim();
     if (!prompt) {
-      return message.channel.send("Please provide a prompt after the command, e.g., `!ask What is AI?`");
+      return message.channel.send("Please provide a prompt after the command, e.g., `!daysha hello?`");
     }
 
     // Use our predefined responses instead of API call
@@ -317,7 +329,7 @@ client.on('messageCreate', async (message) => {
       const prompt = message.content.replace(mentionRegex, '').trim();
       
       if (!prompt) {
-        return message.reply("Come posso aiutarti?");
+        return message.reply("Please provide a prompt after the command, e.g., `@daysha hello?");
       }
       
       const reply = getResponse(prompt);
