@@ -335,7 +335,7 @@ client.on('messageCreate', async (message) => {
       const prompt = message.content.replace(mentionRegex, '').trim();
       
       if (!prompt) {
-        return message.reply("Please provide a prompt after the command, e.g., `@daysha hello?");
+        return message.reply("Please provide a prompt after the command, e.g., `@daysha hello?`");
       }
       
       const reply = getResponse(prompt);
