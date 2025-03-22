@@ -129,6 +129,12 @@ const responses = [
     ]
   },
   {
+    keywords: ['ALOOO', 'ALOO', 'ALOOOO', 'ALO', 'alo'],
+    replies: [
+      "ALLOOOO WAIT….is that the real selena Gomez ?"
+    ]
+  },
+  {
     keywords: ['drift', 'weout'],
     replies: [
       "https://tenor.com/view/drift-manga-gif-26009542",
