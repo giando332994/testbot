@@ -201,6 +201,15 @@ const responses = [
     ]
   },
   {
+    keywords: ['wankji', 'wankge'],
+    replies: [
+      "U spell it  a diff way u wankji in Canada or ?",
+      "I tried but my Wankge only last 4 hours how yallslast 8 😂 klonk left me hanging …… and clients not here to Wankge everyone to bedge ",
+      "Daysha just wants to Wankge in bed I  dread driving in am ….. burrrrrr",
+      "Have all u guys been Wankge ed to the crazy house by client …. He can Wankge you back to normal trust him ..."
+    ]
+  },
+  {
     keywords: ['lyrics', 'meaning', 'nas', 'common'],
     replies: [
       "They don't give a shit about real meanings or lyrical an like nas or common"
