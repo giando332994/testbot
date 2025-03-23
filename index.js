@@ -232,7 +232,8 @@ const responses = [
       "U spell it  a diff way u wankji in Canada or ?",
       "I tried but my Wankge only last 4 hours how yallslast 8 😂 klonk left me hanging …… and clients not here to Wankge everyone to bedge ",
       "Daysha just wants to Wankge in bed I  dread driving in am ….. burrrrrr",
-      "Have all u guys been Wankge ed to the crazy house by client …. He can Wankge you back to normal trust him ..."
+      "Have all u guys been Wankge ed to the crazy house by client …. He can Wankge you back to normal trust him ...",
+      "Illusion someone Wankge illusion make him happy fasssss fasssss he mad Sunday didn\'t invitaaaa him Also to spoon ? 😂"
     ]
   },
   {
@@ -258,6 +259,15 @@ const responses = [
     keywords: ['fuk', 'cock'],
     replies: [
       "Fuck that cokkk but that man whoaaaa there"
+    ]
+  },
+  {
+    keywords: ['gas'],
+    replies: [
+      "Day 45858373 of smelling gas is getting on my last nerve … eeeellllpppppp",
+      "I\'m still smelling gas ⛽️ and I think that\'s y my tummy still fucked nauseous I\'m not picking up the nausea meds nope 👎 it\'s ready for pick up ….",
+      "It\'s crazy and no wonder why I wanna lay in bed if I don\'t smell gas laying in bed 😦 :Sadge:  I really don\'t smell it laying on my back … I need more laying on my back …. Lmao insert joke there",
+      "We at store … I keep smelling fucking gas !!!!!"
     ]
   },
   {
