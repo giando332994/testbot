@@ -237,9 +237,34 @@ const responses = [
   {
     keywords: ['lyrics', 'meaning', 'nas', 'common'],
     replies: [
-      "They don't give a shit about real meanings or lyrical an like nas or common"
+      "They don't give a shit about real meanings or lyrical an like nas or common",
+      "https://tenor.com/view/playboi-carty-fans-worst-music-music-playboi-carti-fans-gif-16328159996012002060"
     ]
-  }
+  },
+  {
+    keywords: ['headboard'],
+    replies: [
+      "when u sit on a face u face a headboard"
+    ]
+  },
+  {
+    keywords: ["mole"],
+    replies: [
+      "Rellon sorry accusing being a mole illusion and klonk photoshopped a bad joke"
+    ]
+  },
+  {
+    keywords: ['fuk', 'cock'],
+    replies: [
+      "Fuck that cokkk but that man whoaaaa there"
+    ]
+  },
+  {
+    keywords: ['fekk'],
+    replies: [
+      "FEKK givign out free cokcs lol"
+    ]
+  },
 ];
 
 // Default responses when no keywords match
@@ -259,7 +284,10 @@ const defaultResponses = [
   "🤨 Hmm monka ohhh no n hahahahaha MokATOS 🤣  👍",
   "I ran out of collffeseeeeee coffee",
   "ohh now i clicked wrong thing, i see penises",
-  "i was joking nut sure what an astronaugt gets for his fake work"
+  "i was joking nut sure what an astronaugt gets for his fake work",
+  "Fuck that cokkk but that man whoaaaa there",
+  "FEKK givign out free cokcs lol",
+  "aka KLONK why u trollin me I asked   where is the recipe on HOW TO MAKE THE LIL FAVOR >>>>>> hahahah its a joke ,,,,, hollyy hellaaaaaaaa........................"
 ];
 
 // Function to get a response based on the prompt
