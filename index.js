@@ -171,7 +171,8 @@ const responses = [
       "https://tenor.com/view/theecards-good-morning-gm-goodmorning-have-a-good-day-gif-15173671151548065674",
       "https://tenor.com/view/good-morning-goodmorning-gm-morning-happy-gif-3123798057584218894",
       "https://tenor.com/view/goodmorning-wake-the-fuck-up-gif-15550364",
-      "https://tenor.com/view/good-morning-gif-10503059712898098418"
+      "https://tenor.com/view/good-morning-gif-10503059712898098418",
+      "https://tenor.com/view/muppets-muppet-show-swedish-chef-pans-pots-and-pans-gif-4870310107246819553"
     ]
   },
   {
@@ -287,6 +288,7 @@ const defaultResponses = [
   "i was joking nut sure what an astronaugt gets for his fake work",
   "Fuck that cokkk but that man whoaaaa there",
   "FEKK givign out free cokcs lol",
+  "https://tenor.com/view/chicken-cluck-caw-heihei-gif-12652868522842709939",
   "aka KLONK why u trollin me I asked   where is the recipe on HOW TO MAKE THE LIL FAVOR >>>>>> hahahah its a joke ,,,,, hollyy hellaaaaaaaa........................"
 ];
 
