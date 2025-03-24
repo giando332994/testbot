@@ -138,7 +138,9 @@ const responses = [
     keywords: ['drift', 'weout'],
     replies: [
       "https://tenor.com/view/drift-manga-gif-26009542",
-      "https://tenor.com/view/car-gif-19988492"
+      "https://tenor.com/view/car-gif-19988492",
+      "https://tenor.com/view/cat-drifting-tokyo-drift-gif-11256908757614838093",
+      "https://tenor.com/view/toyota-corolla-drifting-drift-japanese-cars-toyota-gif-23514049"
     ]
   },
   {
@@ -256,8 +258,9 @@ const responses = [
     ]
   },
   {
-    keywords: ['fuk', 'cock'],
+    keywords: ['fuk'],
     replies: [
+      "https://tenor.com/view/cat-fuck-this-give-up-fuck-this-thing-in-particular-gif-16235966",
       "Fuck that cokkk but that man whoaaaa there"
     ]
   },
@@ -267,7 +270,8 @@ const responses = [
       "Day 45858373 of smelling gas is getting on my last nerve … eeeellllpppppp",
       "I\'m still smelling gas ⛽️ and I think that\'s y my tummy still fucked nauseous I\'m not picking up the nausea meds nope 👎 it\'s ready for pick up ….",
       "It\'s crazy and no wonder why I wanna lay in bed if I don\'t smell gas laying in bed 😦 :Sadge:  I really don\'t smell it laying on my back … I need more laying on my back …. Lmao insert joke there",
-      "We at store … I keep smelling fucking gas !!!!!"
+      "We at store … I keep smelling fucking gas !!!!!",
+      "And I hear there\'s a doctor @Legendarism I been smelling exhaust fumes aka natural gas smells for the passed 2 weeks and need a mri is it really a brain tumor ? I\'m really worried had a ct scan they seen something but won\'t tell me till mri PepeHands …….elllllllllppppppppp"
     ]
   },
   {
@@ -297,6 +301,7 @@ const defaultResponses = [
   "ohh now i clicked wrong thing, i see penises",
   "i was joking nut sure what an astronaugt gets for his fake work",
   "Fuck that cokkk but that man whoaaaa there",
+  "I\'m Freezing my balllllssss offfffff in here",
   "FEKK givign out free cokcs lol",
   "https://tenor.com/view/chicken-cluck-caw-heihei-gif-12652868522842709939",
   "aka KLONK why u trollin me I asked   where is the recipe on HOW TO MAKE THE LIL FAVOR >>>>>> hahahah its a joke ,,,,, hollyy hellaaaaaaaa........................"
@@ -377,19 +382,19 @@ client.on('messageCreate', async (message) => {
     message.channel.send(reply);
   }
 
-    // Opzione 2: Rispondi quando il bot viene menzionato
-    else if (message.mentions.has(client.user)) {
-      // Estrai il messaggio dopo la menzione del bot
-      const mentionRegex = new RegExp(`<@!?${client.user.id}>`);
-      const prompt = message.content.replace(mentionRegex, '').trim();
-      
-      if (!prompt) {
-        return message.reply("Please provide a prompt after the command, e.g., `@daysha hello?`");
-      }
-      
-      const reply = getResponse(prompt);
-      message.reply(reply);
+  // Opzione 2: Rispondi quando il bot viene menzionato
+  else if (message.mentions.has(client.user)) {
+    // Estrai il messaggio dopo la menzione del bot
+    const mentionRegex = new RegExp(`<@!?${client.user.id}>`);
+    const prompt = message.content.replace(mentionRegex, '').trim();
+    
+    if (!prompt) {
+      return message.reply("Please provide a prompt after the command, e.g., `@daysha hello?`");
     }
+    
+    const reply = getResponse(prompt);
+    message.reply(reply);
+  }
 });
 
 client.login(process.env.DISCORD_TOKEN);
