@@ -1,98 +1,3 @@
-/*
-require('dotenv').config();
-
-
-// Import the discord.js module
-const { Client, GatewayIntentBits } = require('discord.js');
-
-// Create a new client instance with necessary intents
-const client = new Client({
-  intents: [
-    GatewayIntentBits.Guilds,
-    GatewayIntentBits.GuildMessages,
-    GatewayIntentBits.MessageContent, // This intent is required to read message content
-  ],
-});
-
-// When the client is ready, run this code (only once)
-client.once('ready', () => {
-  console.log(`Logged in as ${client.user.tag}!`);
-});
-
-// Listen for new messages
-client.on('messageCreate', message => {
-  // Ignore messages from bots to prevent loops
-  if (message.author.bot) return;
-
-  // Check if the message content matches a specific command (e.g., "!hello")
-  if (message.content === '!hello') {
-    // Send a reply in the same channel
-    message.channel.send('Hello there!');
-  }
-});
-
-// Log in to Discord with your bot token
-client.login(process.env.DISCORD_BOT_TOKEN); 
-*/
-/*
-require('dotenv').config();
-const { Client, GatewayIntentBits } = require('discord.js');
-const axios = require('axios');
-
-const client = new Client({
-  intents: [
-    GatewayIntentBits.Guilds,
-    GatewayIntentBits.GuildMessages,
-    GatewayIntentBits.MessageContent,
-  ],
-});
-
-// Function to call Hugging Face's inference API with GPT-Neo
-async function getGPTNeoResponse(prompt) {
-  try {
-    const response = await axios.post(
-      //'https://api-inference.huggingface.co/models/EleutherAI/gpt-neo-125M',
-      //'https://api-inference.huggingface.co/models/distilgpt2',
-      'https://api-inference.huggingface.co/models/microsoft/Phi-4-mini-instruct',
-      { inputs: prompt },
-      {
-        headers: {
-          'Authorization': `Bearer ${process.env.HF_API_TOKEN}`,
-          'Content-Type': 'application/json',
-        },
-      }
-    );
-    // Depending on the model response format, extract the generated text.
-    return response.data[0].generated_text;
-  } catch (error) {
-    console.error('Error calling Hugging Face API:', error);
-    return "I'm sorry, something went wrong.";
-  }
-}
-
-client.once('ready', () => {
-  console.log(`Logged in as ${client.user.tag}!`);
-});
-
-client.on('messageCreate', async (message) => {
-  if (message.author.bot) return;
-
-  // Listen for the command "!ask"
-  if (message.content.startsWith('!ask')) {
-    const prompt = message.content.slice(4).trim();
-    if (!prompt) {
-      return message.channel.send("Please provide a prompt after the command, e.g., `!ask What is AI?`");
-    }
-
-    message.channel.send("Let me think...");
-
-    const reply = await getGPTNeoResponse(prompt);
-    message.channel.send(reply);
-  }
-});
-
-client.login(process.env.DISCORD_BOT_TOKEN);
-*/
 require("dotenv").config();
 const express = require("express");
 const { Client, GatewayIntentBits } = require("discord.js");
@@ -141,6 +46,17 @@ const responses = [
       "https://tenor.com/view/car-gif-19988492",
       "https://tenor.com/view/cat-drifting-tokyo-drift-gif-11256908757614838093",
       "https://tenor.com/view/toyota-corolla-drifting-drift-japanese-cars-toyota-gif-23514049"
+    ]
+  },
+  {
+    keywords: ['conspiracy', 'conspiracy theory'],
+    replies: [
+      "THATS ON EVERYTHINGBHERE IS LAB CREATED ALLOOOOOOOO LIKE THE FRIES THE BREAD EVERYTHING    THEY TRY TO KILL US    ERRRRRRR DAYYYYY",
+      "They wipe the dates off milk and re stamps them lol",
+      "The adrenochrome guggle pizzagate",
+      "Cuz these cold in Ohio that the drones brought are colliding with everyone,     Well I\'m. Not a boomer",
+      "The recent surge in mysterious drone sightings across the United States has sparked a resurgence of the Project Blue Beam conspiracy theory, which claims the global elites plan to fake an alien invasion",
+      "And just a confession daysha will stop with the long conspiracy theories I maybe offended some people I\'m sorry . I may have very strong feelings about that my grandfather died of Covid while stuck in a bursting home when we couldn\'t visit …. A nurse that was parting all week caught it and that\'s how he got it….  :Sadge:  also why daysha hates nursing homes … I used to work in an Alzheimer\'s nursing home they treated them people like shit !"
     ]
   },
   {
