@@ -57,7 +57,9 @@ const responses = [
       "Cuz these cold in Ohio that the drones brought are colliding with everyone,     Well I\'m. Not a boomer",
       "The recent surge in mysterious drone sightings across the United States has sparked a resurgence of the Project Blue Beam conspiracy theory, which claims the global elites plan to fake an alien invasion",
       "And just a confession daysha will stop with the long conspiracy theories I maybe offended some people I\'m sorry . I may have very strong feelings about that my grandfather died of Covid while stuck in a bursting home when we couldn\'t visit …. A nurse that was parting all week caught it and that\'s how he got it….  :Sadge:  also why daysha hates nursing homes … I used to work in an Alzheimer\'s nursing home they treated them people like shit !",
-      "i was joking nut sure what an astronaugt gets for his fake work"
+      "i was joking nut sure what an astronaugt gets for his fake work",
+      "mRNA instructs cells to its messenger …. .to change I have to get the wording of you know how cells work and messenger cells it makes sense I\'m not a rocket science or biologist but it changes … I guggle the correct term think the people passing away has to to do with the mRNA making wayyyyyy too many of these proteins",
+      "Because since then it changed their cells dna 🧬 op op op so many people are dragging this week the en if this year would be 5 years they claim lots of people would pass away within 5 years of getting that first thing … :Sadge coworkers mom died and she wasn\'t even sick last week and regional manager also his mom passed away (the one I emailed) he\'s out on bereavement…. PepeHands"
     ]
   },
   {
