@@ -170,6 +170,18 @@ const responses = [
     ]
   },
   {
+    keywords: ['shutup'],
+    replies: [
+      "So I need everyone to remind me to shut the fuck all day"      
+    ]
+  },
+  {
+    keywords: ['fakediet'],
+    replies: [
+      "Oh making fun of me for trying to eat ealllthyyy today ?? Hookayyyyy u want me to order a booogerrr"
+    ]
+  },
+  {
     keywords: ['headboard', 'head board'],
     replies: [
       "when u sit on a face u face a headboard"
@@ -234,7 +246,8 @@ const defaultResponses = [
   "I\'m Freezing my balllllssss offfffff in here",
   "FEKK givign out free cokcs lol",
   "https://tenor.com/view/chicken-cluck-caw-heihei-gif-12652868522842709939",
-  "aka KLONK why u trollin me I asked   where is the recipe on HOW TO MAKE THE LIL FAVOR >>>>>> hahahah its a joke ,,,,, hollyy hellaaaaaaaa........................"
+  "aka KLONK why u trollin me I asked   where is the recipe on HOW TO MAKE THE LIL FAVOR >>>>>> hahahah its a joke ,,,,, hollyy hellaaaaaaaa........................",
+  "So I need everyone to remind me to shut the fuck all day"
 ];
 
 // Function to get a response based on the prompt
