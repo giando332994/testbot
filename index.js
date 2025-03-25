@@ -181,6 +181,12 @@ const responses = [
     ]
   },
   {
+    keywords: ["espresso"],
+    replies: [
+      "their is mold in expresso"
+    ]
+  },
+  {
     keywords: ['fuk'],
     replies: [
       "https://tenor.com/view/cat-fuck-this-give-up-fuck-this-thing-in-particular-gif-16235966",
