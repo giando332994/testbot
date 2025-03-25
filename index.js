@@ -45,7 +45,9 @@ const responses = [
       "https://tenor.com/view/drift-manga-gif-26009542",
       "https://tenor.com/view/car-gif-19988492",
       "https://tenor.com/view/cat-drifting-tokyo-drift-gif-11256908757614838093",
-      "https://tenor.com/view/toyota-corolla-drifting-drift-japanese-cars-toyota-gif-23514049"
+      "https://tenor.com/view/toyota-corolla-drifting-drift-japanese-cars-toyota-gif-23514049",
+      "https://tenor.com/view/hajwala-saudi-drift-camry-gif-15527164969986384869",
+      "https://tenor.com/view/drift-drifting-tandem-tandem-drift-car-gif-26702086"
     ]
   },
   {
@@ -59,7 +61,9 @@ const responses = [
       "And just a confession daysha will stop with the long conspiracy theories I maybe offended some people I\'m sorry . I may have very strong feelings about that my grandfather died of Covid while stuck in a bursting home when we couldn\'t visit …. A nurse that was parting all week caught it and that\'s how he got it….  :Sadge:  also why daysha hates nursing homes … I used to work in an Alzheimer\'s nursing home they treated them people like shit !",
       "i was joking nut sure what an astronaugt gets for his fake work",
       "mRNA instructs cells to its messenger …. .to change I have to get the wording of you know how cells work and messenger cells it makes sense I\'m not a rocket science or biologist but it changes … I guggle the correct term think the people passing away has to to do with the mRNA making wayyyyyy too many of these proteins",
-      "Because since then it changed their cells dna 🧬 op op op so many people are dragging this week the en if this year would be 5 years they claim lots of people would pass away within 5 years of getting that first thing … :Sadge coworkers mom died and she wasn\'t even sick last week and regional manager also his mom passed away (the one I emailed) he\'s out on bereavement…. PepeHands"
+      "Because since then it changed their cells dna 🧬 op op op so many people are dragging this week the en if this year would be 5 years they claim lots of people would pass away within 5 years of getting that first thing … :Sadge coworkers mom died and she wasn\'t even sick last week and regional manager also his mom passed away (the one I emailed) he\'s out on bereavement…. PepeHands",
+      "Yallll there is more conspiracies Remener the sex traffic  tunnels and the government Making the weather one what\'s the aporoveiation ?",
+      "And the airplanes ✈️ that do chemtrails trigger storms … they have admitted to that"
     ]
   },
   {
@@ -165,7 +169,7 @@ const responses = [
     ]
   },
   {
-    keywords: ['headboard'],
+    keywords: ['headboard', 'head board'],
     replies: [
       "when u sit on a face u face a headboard"
     ]
