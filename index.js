@@ -64,7 +64,8 @@ const responses = [
       "Because since then it changed their cells dna 🧬 op op op so many people are dragging this week the en if this year would be 5 years they claim lots of people would pass away within 5 years of getting that first thing … :Sadge coworkers mom died and she wasn\'t even sick last week and regional manager also his mom passed away (the one I emailed) he\'s out on bereavement…. PepeHands",
       "Yallll there is more conspiracies Remener the sex traffic  tunnels and the government Making the weather one what\'s the aporoveiation ?",
       "And the airplanes ✈️ that do chemtrails trigger storms … they have admitted to that",
-      "And the creating of the pandemic ,, .,.... to make this money because he told them thats is how you control population by creating a pandemis .. before covid we were almost at the peak of what the population should be or something like that ,,,,, it was yuuge and they needed to control population again..... that is why every 14 years or so there is some ridiculous pandemic or like black plauge to control this"
+      "And the creating of the pandemic ,, .,.... to make this money because he told them thats is how you control population by creating a pandemis .. before covid we were almost at the peak of what the population should be or something like that ,,,,, it was yuuge and they needed to control population again..... that is why every 14 years or so there is some ridiculous pandemic or like black plauge to control this",
+      "Cuz they putting zip ties on tires and when u go to cut them off  they have fentanyl on them"
     ]
   },
   {
@@ -125,6 +126,12 @@ const responses = [
     keywords: ['chicken', 'broth', 'dringking'],
     replies: [
       "i was poggering a lil dringking chicken broth"
+    ]
+  },
+  {
+    keywords: ['soy'],
+    replies: [
+      "I don\'t touch them   U get them man boobas   If u touch soy"
     ]
   },
   {
@@ -217,6 +224,12 @@ const responses = [
     ]
   },
   {
+    keywords: ['sex'],
+    replies: [
+      "U know payo is wrong u can burn calories by having sexual relations most people sweat when you have relationship and should last up to 2.5 hours lmao 😂"
+    ]
+  },
+  {
     keywords: ['fekk'],
     replies: [
       "FEKK givign out free cokcs lol"
@@ -247,7 +260,8 @@ const defaultResponses = [
   "FEKK givign out free cokcs lol",
   "https://tenor.com/view/chicken-cluck-caw-heihei-gif-12652868522842709939",
   "aka KLONK why u trollin me I asked   where is the recipe on HOW TO MAKE THE LIL FAVOR >>>>>> hahahah its a joke ,,,,, hollyy hellaaaaaaaa........................",
-  "So I need everyone to remind me to shut the fuck all day"
+  "So I need everyone to remind me to shut the fuck all day",
+  "No 100% I\'m right man is not god ………. As per always I\'m kinda right this time"
 ];
 
 // Function to get a response based on the prompt
