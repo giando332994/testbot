@@ -236,6 +236,12 @@ const responses = [
     ]
   },
   {
+    keywords: ['horny freak', 'freak'],
+    replies: [
+      "Wait a secunnnddaaaaaaa I\'m a horny freak ???",
+    ]
+  },
+  {
     keywords: ['milk'],
     replies: [
       "https://cdn.discordapp.com/attachments/1266050244500656130/1354516634915573781/C0B5D356-0C9A-4062-80C5-3A19EB44065E.jpg?ex=67e5936b&is=67e441eb&hm=7296af0b780d52bc10a575d00c17e99a307ecfab13fcc43caece23a68886fe0e&"
@@ -273,7 +279,9 @@ const defaultResponses = [
   "https://tenor.com/view/chicken-cluck-caw-heihei-gif-12652868522842709939",
   "aka KLONK why u trollin me I asked   where is the recipe on HOW TO MAKE THE LIL FAVOR >>>>>> hahahah its a joke ,,,,, hollyy hellaaaaaaaa........................",
   "So I need everyone to remind me to shut the fuck all day",
-  "No 100% I\'m right man is not god ………. As per always I\'m kinda right this time"
+  "Wait a secunnnddaaaaaaa I\'m a horny freak ???",
+  "No 100% I\'m right man is not god ………. As per always I\'m kinda right this time",
+  "Why does payo hate girls so much but he likes to look at their cleavage on stream ? Calls \n them \n Milfs I\'m \n Curious . Calling woman obayseeee is not effing nice .."
 ];
 
 // Function to get a response based on the prompt
