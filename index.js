@@ -1,22 +1,6 @@
 require("dotenv").config();
-const express = require("express");
 const { Client, GatewayIntentBits } = require("discord.js");
-const axios = require('axios');
 
-const app = express();
-const port = process.env.PORT || 3000;
-
-// Parse JSON requests
-app.use(express.json());
-
-app.get('/', (req, res) => {
-  res.send('Discord bot is running!');
-});
-
-
-app.listen(port,  () => {
-  console.log(`Web server running at http://0.0.0.0:${port}`);
-});
 const client = new Client({
   intents: [
     GatewayIntentBits.Guilds,
