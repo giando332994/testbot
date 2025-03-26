@@ -34,6 +34,12 @@ const responses = [
     ]
   },
   {
+    keywords: ['favorite'],
+    replies: [
+      "Nut sure this is. Good time for u to talk dfavorite"
+    ]
+  },
+  {
     keywords: ['ALOOO', 'ALOO', 'ALOOOO', 'ALO', 'alo'],
     replies: [
       "ALLOOOO WAIT….is that the real selena Gomez ?"
@@ -227,6 +233,12 @@ const responses = [
     keywords: ['sex'],
     replies: [
       "U know payo is wrong u can burn calories by having sexual relations most people sweat when you have relationship and should last up to 2.5 hours lmao 😂"
+    ]
+  },
+  {
+    keywords: ['milk'],
+    replies: [
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1354516634915573781/C0B5D356-0C9A-4062-80C5-3A19EB44065E.jpg?ex=67e5936b&is=67e441eb&hm=7296af0b780d52bc10a575d00c17e99a307ecfab13fcc43caece23a68886fe0e&"
     ]
   },
   {
