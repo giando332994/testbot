@@ -236,9 +236,16 @@ const responses = [
     ]
   },
   {
-    keywords: ['horny freak', 'freak'],
+    keywords: ['freak'],
     replies: [
       "Wait a secunnnddaaaaaaa I\'m a horny freak ???",
+    ]
+  },
+  {
+    keywords: ['alaska'],
+    replies: [
+      "Maybe we have a warning in rules if ur a fucking snowflake to go to Alaska ??? And not this discord ……",
+      "I used Alaska as an example I hope no one in here lives in Alaska"
     ]
   },
   {
