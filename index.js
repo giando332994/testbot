@@ -12,6 +12,12 @@ const client = new Client({
 // Predefined responses based on keywords
 const responses = [
   {
+    keywords: ['legitbot'],
+    replies: [
+      "DayshaChad only quote what Daysha (or her alts) says,\nnever doubt Daysha she is always right"
+    ]
+  },
+  {
     keywords: ['evil', 'man', 'phone'],
     replies: [
       "The evil man is here we can't be on our phone e allot"
