@@ -14,7 +14,7 @@ const responses = [
   {
     keywords: ['legitbot'],
     replies: [
-      "DayshaChad only quote what Daysha (or her alts) says,\nnever doubt Daysha she is always right"
+      "DayshaChad only quotes what Daysha (or her alts) says.\nNever doubt Daysha, she is always right"
     ]
   },
   {
@@ -278,7 +278,7 @@ const defaultResponses = [
   "So I need everyone to remind me to shut the fuck all day",
   "Wait a secunnnddaaaaaaa I\'m a horny freak ???",
   "No 100% I\'m right man is not god ………. As per always I\'m kinda right this time",
-  "Why does payo hate girls so much but he likes to look at their cleavage on stream ? Calls \n them \n Milfs I\'m \n Curious . Calling woman obayseeee is not effing nice .."
+  "Why does payo hate girls so much but he likes to look at their cleavage on stream ? Calls \nthem \nMilfs I\'m \nCurious . Calling woman obayseeee is not effing nice .."
 ];
 
 // Function to get a response based on the prompt
