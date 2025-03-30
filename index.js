@@ -73,6 +73,7 @@ const responses = [
   {
     keywords: ['breakfast', 'sausage'],
     replies: [
+      "2 bites I\'m full nope 👎 potatoes will wait 😂",
       "I do t like sweets and meat for breakfast unlesss the sausage accidentally gets in syrup 😂",
       "Is klonk making us breakfast ?",
       "https://tenor.com/view/eggs-flip-breakfast-cooking-gif-9569635",
@@ -109,7 +110,8 @@ const responses = [
       "https://tenor.com/view/bedtime-goodnight-going-to-bed-dog-bear-gif-4372798246612572811",
       "https://tenor.com/view/good-night-goodnight-nighty-gif-18281734137392456796",
       "https://tenor.com/view/goodnight-moon-gif-14202440755019416563",
-      "https://tenor.com/view/shadow-the-hedgehog-shadow-sonic-sonic-the-hedgehog-goodnight-gif-25968250"
+      "https://tenor.com/view/shadow-the-hedgehog-shadow-sonic-sonic-the-hedgehog-goodnight-gif-25968250",
+      "https://tenor.com/view/cat-hearts-hug-happy-thank-you-gif-8008570886507194900"
     ]
   },
   {
@@ -206,7 +208,8 @@ const responses = [
     keywords: ['fuk'],
     replies: [
       "https://tenor.com/view/cat-fuck-this-give-up-fuck-this-thing-in-particular-gif-16235966",
-      "Fuck that cokkk but that man whoaaaa there"
+      "Fuck that cokkk but that man whoaaaa there",
+      ",,,,..,.,,,,,,,,,,.,,,,… \nOh I\'m not supposed to me mad about u are I forgot …. My bad"
     ]
   },
   {
@@ -278,6 +281,10 @@ const defaultResponses = [
   "So I need everyone to remind me to shut the fuck all day",
   "Wait a secunnnddaaaaaaa I\'m a horny freak ???",
   "No 100% I\'m right man is not god ………. As per always I\'m kinda right this time",
+  "forgive me for i have sinned i had a cream stick",
+  "Dont effin @ me !!!!!!! For bull crap",
+  "The holly helll clip has 87 views lol thats seccond in place as funnies to the Gasoline one though damnit LMAO the gasoline one has 301 views prob cuz i posted it on fukin Twitter poggers THATS the one he should put on tik tok damnit cuz its funny as fuk ,,,, LMAO ASMR only has 33 views wtf thats bullshyte",
+  "And I\'m so pissed right now I might go straight to room and go to bedge cuz I dont want to hear shittahhhhh from the Mum !! \nAbout the touching of shit …",
   "Why does payo hate girls so much but he likes to look at their cleavage on stream ? Calls \nthem \nMilfs I\'m \nCurious . Calling woman obayseeee is not effing nice .."
 ];
 
