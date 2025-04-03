@@ -338,6 +338,31 @@ function getResponse(prompt) {
   return defaultResponses[randomIndex];
 }
 
+const axios = require('axios');
+// Function to call Hugging Face's inference API with GPT-Neo
+async function getGPTNeoResponse(prompt) {
+  try {
+    const response = await axios.post(
+      //'https://api-inference.huggingface.co/models/EleutherAI/gpt-neo-125M',
+      //'https://api-inference.huggingface.co/models/distilgpt2',
+      //'https://api-inference.huggingface.co/models/microsoft/Phi-4-mini-instruct',
+      'https://api-inference.huggingface.co/models/meta-llama/Llama-3.3-70B-Instruct',
+      { inputs: prompt },
+      {
+        headers: {
+          'Authorization': `Bearer ${process.env.HF_API_TOKEN}`,
+          'Content-Type': 'application/json',
+        },
+      }
+    );
+    // Depending on the model response format, extract the generated text.
+    return response.data[0].generated_text;
+  } catch (error) {
+    console.error('Error calling Hugging Face API:', error);
+    return "I'm sorry, something went wrong.";
+  }
+}
+
 
 
 
@@ -388,7 +413,7 @@ client.on('messageCreate', async (message) => {
     }
 
     // Use our predefined responses instead of API call
-    const reply = getResponse(prompt);
+    const reply = getGPTNeoResponse(prompt);
     message.channel.send(reply);
   }
 
