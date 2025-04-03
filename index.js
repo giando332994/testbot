@@ -253,6 +253,24 @@ const responses = [
       "FEKK givign out free cokcs lol"
     ]
   },
+  {
+    keywords: ['burritos', 'tacos'],
+    replies: [
+      "I can\'t say I don\'t \nLike burritos tacos burritos chimmyyy Chingumgas etc … it\'s thundering lightening and about \nTo snow …. ellpppppppppppp @kalonko"
+    ]
+  },
+  {
+    keywords: ['monkafood'],
+    replies: [
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1356708647924662474/IMG_5455.jpg?ex=67eede64&is=67ed8ce4&hm=2149d678e9f3e000a0ad70fa3d73550abb986b59dd7dab857288f1f08adf8079&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1357032855988994230/IMG_5509.jpg?ex=67eebad5&is=67ed6955&hm=7041d15c606e65865266afe34c6f66f5f813265a75c61882019338cc7d23624a&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1356710336668897443/IMG_5456.jpg?ex=67eedff6&is=67ed8e76&hm=279087ae39e3c5c49a00ce69d5bd0712ad820297afb6f88a01ce783b076d6a3e&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1355940487445348676/IMG_5366.jpg?ex=67eeb5fc&is=67ed647c&hm=3e94b73d4067b3722b7ff3a5869d9d1f707ff5801b2673be865384c43b54ed46&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1355234520948805836/IMG_5225.jpg?ex=67eec780&is=67ed7600&hm=a56744bb0214f7f7609ef7ccc58d0bf1f4d69bba4bd67954a6b6fbc395006dda&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1355211491133100123/IMG_5218.jpg?ex=67eeb20e&is=67ed608e&hm=f498f75321d08aea4c60467c26d5f9c576c521e9c749be296d79de7e0d0ef0b4&",
+      
+    ]
+  },
 ];
 
 // Default responses when no keywords match
@@ -285,7 +303,9 @@ const defaultResponses = [
   "Dont effin @ me !!!!!!! For bull crap",
   "The holly helll clip has 87 views lol thats seccond in place as funnies to the Gasoline one though damnit LMAO the gasoline one has 301 views prob cuz i posted it on fukin Twitter poggers THATS the one he should put on tik tok damnit cuz its funny as fuk ,,,, LMAO ASMR only has 33 views wtf thats bullshyte",
   "And I\'m so pissed right now I might go straight to room and go to bedge cuz I dont want to hear shittahhhhh from the Mum !! \nAbout the touching of shit …",
-  "Why does payo hate girls so much but he likes to look at their cleavage on stream ? Calls \nthem \nMilfs I\'m \nCurious . Calling woman obayseeee is not effing nice .."
+  "Why does payo hate girls so much but he likes to look at their cleavage on stream ? Calls \nthem \nMilfs I\'m \nCurious . Calling woman obayseeee is not effing nice ..",
+  "I can\'t say I don\'t \nLike burritos tacos burritos chimmyyy Chingumgas etc … it\'s thundering lightening and about \nTo snow …. ellpppppppppppp @kalonko",
+  "She just \nGot a big forehead like a 5 head … tbh"
 ];
 
 // Function to get a response based on the prompt
