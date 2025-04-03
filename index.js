@@ -273,7 +273,12 @@ const responses = [
       "https://cdn.discordapp.com/attachments/1332760107750002790/1357149726692343908/IMG_2125.jpg?ex=67ef27ad&is=67edd62d&hm=a23057f342f29bfabbff134125f06868570b7c55aeef9d72961b8780b34506b2&",
       "https://cdn.discordapp.com/attachments/1332760107750002790/1357149772477239396/IMG_1066.jpg?ex=67ef27b8&is=67edd638&hm=c45fbd812a31029a4f431195cbba55f7017491fc75aa3e354c033945b00e8420&",
       "https://cdn.discordapp.com/attachments/1332760107750002790/1357149840928411658/IMG_0638.jpg?ex=67ef27c8&is=67edd648&hm=7a4fa34eef54e740a27c9b9a4dde79cdfe1fa548d5a7992e7e7cda14bbcccee3&",
-      "https://cdn.discordapp.com/attachments/1332760107750002790/1357149940496732270/IMG_2738.jpg?ex=67ef27e0&is=67edd660&hm=c06a042a9a5b851fb23d79e926c27549a5c1d0b1aad544ddc4caa956805e4088&"
+      "https://cdn.discordapp.com/attachments/1332760107750002790/1357149940496732270/IMG_2738.jpg?ex=67ef27e0&is=67edd660&hm=c06a042a9a5b851fb23d79e926c27549a5c1d0b1aad544ddc4caa956805e4088&",
+      "https://cdn.discordapp.com/attachments/1332760107750002790/1357151263074160732/IMG_4509.jpg?ex=67ef291b&is=67edd79b&hm=634c2b012386e2da9f0ba3b1c78135afef8a6d3d54897d8ef851333627318e39&",
+      "https://cdn.discordapp.com/attachments/1332760107750002790/1357151699076255795/IMG_3729.jpg?ex=67ef2983&is=67edd803&hm=e702f9a304003f63bd3057bed8561a900e4439d9273fde8296b54f3ab0abef4d&",
+      "https://cdn.discordapp.com/attachments/1332760107750002790/1357151745129840720/IMG_3721.jpg?ex=67ef298e&is=67edd80e&hm=8488de29c537f94efebd901d0822f06670db1b5df56518195b28e7f329db9203&",
+      "https://cdn.discordapp.com/attachments/1332760107750002790/1357152064941330492/IMG_1813.jpg?ex=67ef29da&is=67edd85a&hm=a90dae11d1643789cca5e37c21b2b2c0993fa7ca9cfaa8c53b597787c632f4a3&"
+ 
     ]
   },
 ];
@@ -334,33 +339,6 @@ function getResponse(prompt) {
   return defaultResponses[randomIndex];
 }
 
-const axios = require('axios');
-// Function to call Hugging Face's inference API with GPT-Neo
-async function getGPTNeoResponse(prompt) {
-  try {
-    const response = await axios.post(
-      //'https://api-inference.huggingface.co/models/EleutherAI/gpt-neo-125M',
-      //'https://api-inference.huggingface.co/models/distilgpt2',
-      //'https://api-inference.huggingface.co/models/microsoft/Phi-4-mini-instruct',
-      'https://api-inference.huggingface.co/models/meta-llama/Llama-3.3-70B-Instruct',
-      { inputs: prompt },
-      {
-        headers: {
-          'Authorization': `Bearer ${process.env.HF_API_TOKEN}`,
-          'Content-Type': 'application/json',
-        },
-      }
-    );
-    // Depending on the model response format, extract the generated text.
-    return response.data[0].generated_text;
-  } catch (error) {
-    console.error('Error calling Hugging Face API:', error);
-    return "I'm sorry, something went wrong.";
-  }
-}
-
-
-
 
 client.once('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
@@ -409,7 +387,7 @@ client.on('messageCreate', async (message) => {
     }
 
     // Use our predefined responses instead of API call
-    const reply = getGPTNeoResponse(prompt);
+    const reply = getResponse(prompt);
     message.channel.send(reply);
   }
 
