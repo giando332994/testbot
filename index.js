@@ -199,6 +199,12 @@ const responses = [
     ]
   },
   {
+    keywords: ["toes"],
+    replies: [
+      "Yeah getting ur toes sucked feels good as fuck !!!!!"
+    ]
+  },
+  {
     keywords: ["espresso"],
     replies: [
       "their is mold in expresso"
@@ -277,7 +283,8 @@ const responses = [
       "https://cdn.discordapp.com/attachments/1332760107750002790/1357151263074160732/IMG_4509.jpg?ex=67ef291b&is=67edd79b&hm=634c2b012386e2da9f0ba3b1c78135afef8a6d3d54897d8ef851333627318e39&",
       "https://cdn.discordapp.com/attachments/1332760107750002790/1357151699076255795/IMG_3729.jpg?ex=67ef2983&is=67edd803&hm=e702f9a304003f63bd3057bed8561a900e4439d9273fde8296b54f3ab0abef4d&",
       "https://cdn.discordapp.com/attachments/1332760107750002790/1357151745129840720/IMG_3721.jpg?ex=67ef298e&is=67edd80e&hm=8488de29c537f94efebd901d0822f06670db1b5df56518195b28e7f329db9203&",
-      "https://cdn.discordapp.com/attachments/1332760107750002790/1357152064941330492/IMG_1813.jpg?ex=67ef29da&is=67edd85a&hm=a90dae11d1643789cca5e37c21b2b2c0993fa7ca9cfaa8c53b597787c632f4a3&"
+      "https://cdn.discordapp.com/attachments/1332760107750002790/1357152064941330492/IMG_1813.jpg?ex=67ef29da&is=67edd85a&hm=a90dae11d1643789cca5e37c21b2b2c0993fa7ca9cfaa8c53b597787c632f4a3&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1357798934969454714/IMG_5649.jpg?ex=67f1844c&is=67f032cc&hm=001df65c98adca67369b9e716e98ad6680983b05734a83d593754d41edd13595&"
  
     ]
   },
