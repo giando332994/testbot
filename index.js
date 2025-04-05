@@ -54,7 +54,7 @@ const responses = [
       "The adrenochrome guggle pizzagate",
       "Cuz these cold in Ohio that the drones brought are colliding with everyone,     Well I\'m. Not a boomer",
       "The recent surge in mysterious drone sightings across the United States has sparked a resurgence of the Project Blue Beam conspiracy theory, which claims the global elites plan to fake an alien invasion",
-      "And just a confession daysha will stop with the long conspiracy theories I maybe offended some people I\'m sorry . I may have very strong feelings about that my grandfather died of Covid while stuck in a bursting home when we couldn\'t visit …. A nurse that was parting all week caught it and that\'s how he got it….  :Sadge:  also why daysha hates nursing homes … I used to work in an Alzheimer\'s nursing home they treated them people like shit !",
+      "And just a confession daysha will stop with the long conspiracy theories I maybe offended some people I\'m sorry . I may have very strong feelings about that",
       "i was joking nut sure what an astronaugt gets for his fake work",
       "mRNA instructs cells to its messenger …. .to change I have to get the wording of you know how cells work and messenger cells it makes sense I\'m not a rocket science or biologist but it changes … I guggle the correct term think the people passing away has to to do with the mRNA making wayyyyyy too many of these proteins",
       "Because since then it changed their cells dna 🧬 op op op so many people are dragging this week the en if this year would be 5 years they claim lots of people would pass away within 5 years of getting that first thing … :Sadge coworkers mom died and she wasn\'t even sick last week and regional manager also his mom passed away (the one I emailed) he\'s out on bereavement…. PepeHands",
@@ -154,7 +154,8 @@ const responses = [
     keywords: ['silly', 'goose', 'sillygoose'],
     replies: [
       "https://tenor.com/view/goose-your-a-silly-goose-gif-14050056",
-      "https://tenor.com/view/duck-with-sunglasses-driving-car-gif-15362018975526912371"
+      "https://tenor.com/view/duck-with-sunglasses-driving-car-gif-15362018975526912371",
+      "https://tenor.com/view/duck-ducking-happy-feet-playtime-bath-gif-7785501084240633282"
     ]
   },
   {
@@ -284,7 +285,14 @@ const responses = [
       "https://cdn.discordapp.com/attachments/1332760107750002790/1357151699076255795/IMG_3729.jpg?ex=67ef2983&is=67edd803&hm=e702f9a304003f63bd3057bed8561a900e4439d9273fde8296b54f3ab0abef4d&",
       "https://cdn.discordapp.com/attachments/1332760107750002790/1357151745129840720/IMG_3721.jpg?ex=67ef298e&is=67edd80e&hm=8488de29c537f94efebd901d0822f06670db1b5df56518195b28e7f329db9203&",
       "https://cdn.discordapp.com/attachments/1332760107750002790/1357152064941330492/IMG_1813.jpg?ex=67ef29da&is=67edd85a&hm=a90dae11d1643789cca5e37c21b2b2c0993fa7ca9cfaa8c53b597787c632f4a3&",
-      "https://cdn.discordapp.com/attachments/1266050244500656130/1357798934969454714/IMG_5649.jpg?ex=67f1844c&is=67f032cc&hm=001df65c98adca67369b9e716e98ad6680983b05734a83d593754d41edd13595&"
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1357798934969454714/IMG_5649.jpg?ex=67f1844c&is=67f032cc&hm=001df65c98adca67369b9e716e98ad6680983b05734a83d593754d41edd13595&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1357876174474444860/IMG_5672.jpg?ex=67f274fc&is=67f1237c&hm=8996104abb7fe137f022a77cc6655b1c6ac3e373febd8446c921090f8851e14e&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1357875199629988041/IMG_5669.jpg?ex=67f27413&is=67f12293&hm=a4dc954f6b0ffbdbc79296d130a173493a8b336e954e6900cc291ef3765e0966&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1273606861576474737/IMG_0511.jpg?ex=67f267d2&is=67f11652&hm=61602305a9bd814574f1face1a47d424860042651269a9921ede71cbb2ba21c0&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1287852121043238985/IMG_1799.jpg?ex=67f2d040&is=67f17ec0&hm=4caeedb10d66336c344d706bcc4279d0291d00467199d6d85c71861edd4213a8&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1292138112113446993/IMG_2172.jpg?ex=67f295e4&is=67f14464&hm=4d1af4c8831245a8f20f5563540c85a0ffb3f470e9e30e3e3d9710ebf2921f77&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1299368010322022420/IMG_2542.jpg?ex=67f28542&is=67f133c2&hm=da8896dc36cd4b61e7b9094d95ef92a5699eeadabb5a82fd06e539f3831b0710&",
+      
  
     ]
   },
