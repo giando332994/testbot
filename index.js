@@ -267,6 +267,15 @@ const responses = [
     ]
   },
   {
+    keywords: ['giveaway'],
+    replies: [
+      "replace him with one of yall that talk shit about everything and that ur deff not downloading that shit t just to play for 5 min ??",
+      "3 clicks but ZERO DOWNLOADS OP OP OP >>....",
+      "Turbo u have a hot date and u still didn\'t download monopoly go like u said I was gonna :Sadge: :Sadge: :Sadge:",
+      "I should but I want people to be willing to help me… even if turbo still didn\'t download I think … we have 5 people justiii favorite fekkkk dunk …. My mom… thazzittt  thazzzowllll"
+    ]
+  },
+  {
     keywords: ['monkafood'],
     replies: [
       "https://cdn.discordapp.com/attachments/1266050244500656130/1356708647924662474/IMG_5455.jpg?ex=67eede64&is=67ed8ce4&hm=2149d678e9f3e000a0ad70fa3d73550abb986b59dd7dab857288f1f08adf8079&",
@@ -291,7 +300,8 @@ const responses = [
       "https://cdn.discordapp.com/attachments/1266050244500656130/1292138112113446993/IMG_2172.jpg?ex=67f295e4&is=67f14464&hm=4d1af4c8831245a8f20f5563540c85a0ffb3f470e9e30e3e3d9710ebf2921f77&",
       "https://cdn.discordapp.com/attachments/1266050244500656130/1299368010322022420/IMG_2542.jpg?ex=67f28542&is=67f133c2&hm=da8896dc36cd4b61e7b9094d95ef92a5699eeadabb5a82fd06e539f3831b0710&",
       "https://cdn.discordapp.com/attachments/1266050244500656130/1303526993563881533/IMG_2994.jpg?ex=67f27d5d&is=67f12bdd&hm=c2d1f469c0b15f88813fd4ab917d6f7bead2df12d89d51ce3de374884264a74c&",
-      "https://cdn.discordapp.com/attachments/1266050244500656130/1311781510897995806/IMG_3716.jpg?ex=67f2db3b&is=67f189bb&hm=4aafade31c553518095449b43d8b6764dc2e0785853c0b3c56fed6df6313e747&"
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1311781510897995806/IMG_3716.jpg?ex=67f2db3b&is=67f189bb&hm=4aafade31c553518095449b43d8b6764dc2e0785853c0b3c56fed6df6313e747&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1359538256848355549/IMG_5879.jpg?ex=67f7d82b&is=67f686ab&hm=d1943d446049cc2a801d2a2db2a397bb2117b1fe1de5ca2f1fc6c272ebeff45b&"
 
  
     ]
