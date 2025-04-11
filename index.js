@@ -301,7 +301,8 @@ const responses = [
       "https://cdn.discordapp.com/attachments/1266050244500656130/1299368010322022420/IMG_2542.jpg?ex=67f28542&is=67f133c2&hm=da8896dc36cd4b61e7b9094d95ef92a5699eeadabb5a82fd06e539f3831b0710&",
       "https://cdn.discordapp.com/attachments/1266050244500656130/1303526993563881533/IMG_2994.jpg?ex=67f27d5d&is=67f12bdd&hm=c2d1f469c0b15f88813fd4ab917d6f7bead2df12d89d51ce3de374884264a74c&",
       "https://cdn.discordapp.com/attachments/1266050244500656130/1311781510897995806/IMG_3716.jpg?ex=67f2db3b&is=67f189bb&hm=4aafade31c553518095449b43d8b6764dc2e0785853c0b3c56fed6df6313e747&",
-      "https://cdn.discordapp.com/attachments/1266050244500656130/1359538256848355549/IMG_5879.jpg?ex=67f7d82b&is=67f686ab&hm=d1943d446049cc2a801d2a2db2a397bb2117b1fe1de5ca2f1fc6c272ebeff45b&"
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1359538256848355549/IMG_5879.jpg?ex=67f7d82b&is=67f686ab&hm=d1943d446049cc2a801d2a2db2a397bb2117b1fe1de5ca2f1fc6c272ebeff45b&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1360053481024786482/IMG_6006.jpg?ex=67fa60c2&is=67f90f42&hm=c22562a51defcc91a8b4767df84c54a56309166fd10ffa63c4b65a7a39aa4575&"
 
  
     ]
@@ -340,7 +341,8 @@ const defaultResponses = [
   "And I\'m so pissed right now I might go straight to room and go to bedge cuz I dont want to hear shittahhhhh from the Mum !! \nAbout the touching of shit …",
   "Why does payo hate girls so much but he likes to look at their cleavage on stream ? Calls \nthem \nMilfs I\'m \nCurious . Calling woman obayseeee is not effing nice ..",
   "I can\'t say I don\'t \nLike burritos tacos burritos chimmyyy Chingumgas etc … it\'s thundering lightening and about \nTo snow …. ellpppppppppppp @kalonko",
-  "She just \nGot a big forehead like a 5 head … tbh"
+  "She just \nGot a big forehead like a 5 head … tbh",
+  "I just placed order for LamacCompoundaaaaa shottaaaa\nLa\'macCompoundaaa La shottt"
 ];
 
 // Function to get a response based on the prompt
