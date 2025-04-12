@@ -139,7 +139,7 @@ const responses = [
     ]
   },
   {
-    keywords: ['tenor', 'add', 'more'],
+    keywords: ['tenor'],
     replies: [
       "we added 2 more to tenor they not cominning outting right"
     ]
