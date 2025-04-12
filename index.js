@@ -276,7 +276,7 @@ const responses = [
     ]
   },
   {
-    keywords: ['monkafood'],
+    keywords: ['monkafood', 'monka food'],
     replies: [
       "https://cdn.discordapp.com/attachments/1266050244500656130/1356708647924662474/IMG_5455.jpg?ex=67eede64&is=67ed8ce4&hm=2149d678e9f3e000a0ad70fa3d73550abb986b59dd7dab857288f1f08adf8079&",
       "https://cdn.discordapp.com/attachments/1266050244500656130/1357032855988994230/IMG_5509.jpg?ex=67eebad5&is=67ed6955&hm=7041d15c606e65865266afe34c6f66f5f813265a75c61882019338cc7d23624a&",
@@ -302,7 +302,11 @@ const responses = [
       "https://cdn.discordapp.com/attachments/1266050244500656130/1303526993563881533/IMG_2994.jpg?ex=67f27d5d&is=67f12bdd&hm=c2d1f469c0b15f88813fd4ab917d6f7bead2df12d89d51ce3de374884264a74c&",
       "https://cdn.discordapp.com/attachments/1266050244500656130/1311781510897995806/IMG_3716.jpg?ex=67f2db3b&is=67f189bb&hm=4aafade31c553518095449b43d8b6764dc2e0785853c0b3c56fed6df6313e747&",
       "https://cdn.discordapp.com/attachments/1266050244500656130/1359538256848355549/IMG_5879.jpg?ex=67f7d82b&is=67f686ab&hm=d1943d446049cc2a801d2a2db2a397bb2117b1fe1de5ca2f1fc6c272ebeff45b&",
-      "https://cdn.discordapp.com/attachments/1266050244500656130/1360053481024786482/IMG_6006.jpg?ex=67fa60c2&is=67f90f42&hm=c22562a51defcc91a8b4767df84c54a56309166fd10ffa63c4b65a7a39aa4575&"
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1360053481024786482/IMG_6006.jpg?ex=67fa60c2&is=67f90f42&hm=c22562a51defcc91a8b4767df84c54a56309166fd10ffa63c4b65a7a39aa4575&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1321234446711787623/IMG_0769.jpg?ex=67fae0f7&is=67f98f77&hm=e1d6285cbd09ead9cabc677851f281495e661a062f0bdd912afbb0d419773193&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1321496020168999043/IMG_0783.jpg?ex=67fa8313&is=67f93193&hm=3df1400746a58bda71e381e22b98100f9f7baa29787d0b7d4d2c2e3016f83c93&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1321496106919530506/IMG_0784.jpg?ex=67fa8328&is=67f931a8&hm=f921a802d3150f347ea0519e8e8abaf97ffb75d697cb763bc17ccf3b7d9ee1f3&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1323355422446456965/IMG_0981.jpg?ex=67faaf47&is=67f95dc7&hm=ab992746633d6a895bfb5e0c0977fc679a89464439e359a38dc3b5e147b53493&"
 
  
     ]
