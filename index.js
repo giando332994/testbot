@@ -61,7 +61,8 @@ const responses = [
       "Yallll there is more conspiracies Remener the sex traffic  tunnels and the government Making the weather one what\'s the aporoveiation ?",
       "And the airplanes ✈️ that do chemtrails trigger storms … they have admitted to that",
       "And the creating of the pandemic ,, .,.... to make this money because he told them thats is how you control population by creating a pandemis .. before covid we were almost at the peak of what the population should be or something like that ,,,,, it was yuuge and they needed to control population again..... that is why every 14 years or so there is some ridiculous pandemic or like black plauge to control this",
-      "Cuz they putting zip ties on tires and when u go to cut them off  they have fentanyl on them"
+      "Cuz they putting zip ties on tires and when u go to cut them off  they have fentanyl on them",
+      "Wait did we ever post Hillary transporting the kids in those huge train cars and they are stuck in there in Canada 🇨🇦\n And now everyone posting that they are screaming"
     ]
   },
   {
@@ -118,6 +119,12 @@ const responses = [
     keywords: ['remind', 'ugly', 'here'],
     replies: [
       "Reminds of itttsssssss gettingggg ugllyyyyyyyy … in hereeeeeee"
+    ]
+  },
+  {
+    keywords: ['tummy', 'tummy ache'],
+    replies: [
+      "https://tenor.com/view/gunter-adventuretime-sick-penguin-gif-11708179763145014324"
     ]
   },
   {
