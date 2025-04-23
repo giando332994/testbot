@@ -168,6 +168,7 @@ const responses = [
   {
     keywords: ['wankji', 'wankge', ':Wankge:'],
     replies: [
+      "they were wankged to the crazy house and i willget him to wankge u again back to normal",
       "U spell it  a diff way u wankji in Canada or ?",
       "I tried but my Wankge only last 4 hours how yallslast 8 😂 klonk left me hanging …… and clients not here to Wankge everyone to bedge ",
       "Daysha just wants to Wankge in bed I  dread driving in am ….. burrrrrr",
@@ -216,6 +217,12 @@ const responses = [
     keywords: ["espresso"],
     replies: [
       "their is mold in expresso"
+    ]
+  },
+  {
+    keywords: ["chocolate"],
+    replies: [
+      "Someone got the chocolate 🍫 bad things from \nDollar store … it\'s not gonna be a good day …. :POLICE: the ex unconpuluitariessss"
     ]
   },
   {
@@ -274,6 +281,12 @@ const responses = [
     ]
   },
   {
+    keywords: ['buying', 'dick'],
+    replies: [
+      "I\'m buying shoes and clothes but I\'m getting dick"
+    ]
+  },
+  {
     keywords: ['giveaway'],
     replies: [
       "replace him with one of yall that talk shit about everything and that ur deff not downloading that shit t just to play for 5 min ??",
@@ -313,8 +326,8 @@ const responses = [
       "https://cdn.discordapp.com/attachments/1266050244500656130/1321234446711787623/IMG_0769.jpg?ex=67fae0f7&is=67f98f77&hm=e1d6285cbd09ead9cabc677851f281495e661a062f0bdd912afbb0d419773193&",
       "https://cdn.discordapp.com/attachments/1266050244500656130/1321496020168999043/IMG_0783.jpg?ex=67fa8313&is=67f93193&hm=3df1400746a58bda71e381e22b98100f9f7baa29787d0b7d4d2c2e3016f83c93&",
       "https://cdn.discordapp.com/attachments/1266050244500656130/1321496106919530506/IMG_0784.jpg?ex=67fa8328&is=67f931a8&hm=f921a802d3150f347ea0519e8e8abaf97ffb75d697cb763bc17ccf3b7d9ee1f3&",
-      "https://cdn.discordapp.com/attachments/1266050244500656130/1323355422446456965/IMG_0981.jpg?ex=67faaf47&is=67f95dc7&hm=ab992746633d6a895bfb5e0c0977fc679a89464439e359a38dc3b5e147b53493&"
-
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1323355422446456965/IMG_0981.jpg?ex=67faaf47&is=67f95dc7&hm=ab992746633d6a895bfb5e0c0977fc679a89464439e359a38dc3b5e147b53493&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1364314680088068157/IMG_6587.jpg?ex=6809e14f&is=68088fcf&hm=5670fde473cd8bb6f77d8f9831c7ef922b95db71cb66a8a0912aa60582a40a56&"
  
     ]
   },
