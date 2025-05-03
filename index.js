@@ -36,7 +36,7 @@ const responses = [
     ]
   },
   {
-    keywords: ['drift', 'weout'],
+    keywords: ['drift', 'weout', 'we out'],
     replies: [
       "https://tenor.com/view/drift-manga-gif-26009542",
       "https://tenor.com/view/car-gif-19988492",
@@ -327,8 +327,10 @@ const responses = [
       "https://cdn.discordapp.com/attachments/1266050244500656130/1321496020168999043/IMG_0783.jpg?ex=67fa8313&is=67f93193&hm=3df1400746a58bda71e381e22b98100f9f7baa29787d0b7d4d2c2e3016f83c93&",
       "https://cdn.discordapp.com/attachments/1266050244500656130/1321496106919530506/IMG_0784.jpg?ex=67fa8328&is=67f931a8&hm=f921a802d3150f347ea0519e8e8abaf97ffb75d697cb763bc17ccf3b7d9ee1f3&",
       "https://cdn.discordapp.com/attachments/1266050244500656130/1323355422446456965/IMG_0981.jpg?ex=67faaf47&is=67f95dc7&hm=ab992746633d6a895bfb5e0c0977fc679a89464439e359a38dc3b5e147b53493&",
-      "https://cdn.discordapp.com/attachments/1266050244500656130/1364314680088068157/IMG_6587.jpg?ex=6809e14f&is=68088fcf&hm=5670fde473cd8bb6f77d8f9831c7ef922b95db71cb66a8a0912aa60582a40a56&"
- 
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1364314680088068157/IMG_6587.jpg?ex=6809e14f&is=68088fcf&hm=5670fde473cd8bb6f77d8f9831c7ef922b95db71cb66a8a0912aa60582a40a56&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1331723003544735864/IMG_2166.jpg?ex=681725f2&is=6815d472&hm=d7bf6f7cb5d4be42ec8917309f3760a958c31b748d100b47f8a434769a2cddd4&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1343680279071686688/IMG_3146.jpg?ex=68172486&is=6815d306&hm=6857f9b490df1a45f5a1fed6ef772304dbeb26289b6afff4e6f8e6db8f77e62b&",
+      "https://cdn.discordapp.com/attachments/1266050244500656130/1345923600623997000/IMG_3341.jpg?ex=681764c8&is=68161348&hm=2fd84350e320ff1306182dd037322c4f0f86f365c1a188fe139843694cae8b02&"
     ]
   },
 ];
