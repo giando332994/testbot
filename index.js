@@ -425,7 +425,10 @@ client.on('guildCreate', async guild => {
 client.once('ready', async () => {
   console.log(`Logged in as ${client.user.tag}!`);
   
-  
+    // Scegli una delle guilds dove il bot è presente
+  const guild = client.guilds.cache.first();
+  if (!guild) return;
+
   try {
     // Cerca di trovare un canale adatto per inviare il messaggio di benvenuto
     const channel = guild.channels.cache.find(
