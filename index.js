@@ -368,7 +368,8 @@ const defaultResponses = [
   "Why does payo hate girls so much but he likes to look at their cleavage on stream ? Calls \nthem \nMilfs I\'m \nCurious . Calling woman obayseeee is not effing nice ..",
   "I can\'t say I don\'t \nLike burritos tacos burritos chimmyyy Chingumgas etc … it\'s thundering lightening and about \nTo snow …. ellpppppppppppp @kalonko",
   "She just \nGot a big forehead like a 5 head … tbh",
-  "I just placed order for LamacCompoundaaaaa shottaaaa\nLa\'macCompoundaaa La shottt"
+  "I just placed order for LamacCompoundaaaaa shottaaaa\nLa\'macCompoundaaa La shottt",
+  "And mass unbann in discord so we can see morethan 2 people talking please ....... I dotn have the copy pasta with linguni sauce  thanks"
 ];
 
 // Function to get a response based on the prompt
@@ -414,6 +415,30 @@ client.on('guildCreate', async guild => {
         "1️⃣ Use the command `!daysha` followed by your message\n" +
         "2️⃣ Mention me with @Daysha followed by your message\n\n" +
         "I'm here to entertain you, don't hesitate to chat with me! 😊"
+      );
+    }
+  } catch (error) {
+    console.error('Error on sending the Welcome message:', error);
+  }
+});
+
+client.once('ready', async () => {
+  console.log(`Logged in as ${client.user.tag}!`);
+  
+  
+  try {
+    // Cerca di trovare un canale adatto per inviare il messaggio di benvenuto
+    const channel = guild.channels.cache.find(
+      channel => 
+        channel.type === 0 && // 0 è il tipo per canali di testo
+        channel.permissionsFor(guild.members.me).has('SendMessages')
+    );
+
+    if (channel) {
+      await channel.send(
+        "🚨 Update Alert! 🚨 The Dayshachad bot just got a fresh upgrade! 💾✨\n" +
+        "🍜 The linguini Sauce copypasta has been added and if you are lucky Dayshachad will say it\n" +
+        "Stay tuned for more spicy updates 🔥👀"
       );
     }
   } catch (error) {
