@@ -24,6 +24,12 @@ const responses = [
     ]
   },
   {
+    keywords: ['shot', 'teeth'],
+    replies: [
+      "Get ur shot those work good I hear you won’t crave anything … btw does crest white stripes work my \nTeeth are hella stained from all the coffee I drink 🍷"
+    ]
+  },
+  {
     keywords: ['favorite'],
     replies: [
       "Nut sure this is. Good time for u to talk dfavorite"
@@ -440,7 +446,7 @@ client.once('ready', async () => {
     if (channel) {
       await channel.send(
         "🚨 Update Alert! 🚨 The Dayshachad bot just got a fresh upgrade! 💾✨\n" +
-        "🍜 The linguini Sauce copypasta has been added and if you are lucky Dayshachad will say it\n" +
+        "💉 The shot copypasta has been added!\n" +
         "Stay tuned for more spicy updates 🔥👀"
       );
     }
